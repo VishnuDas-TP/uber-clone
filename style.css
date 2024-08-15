@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(12, 12, 12);
+    margin: 0;
+    padding: 0;
+    width: 100%;
+
+}
+.navcls a{
+    color: #fff
+}
+#toggler-icon{
+    filter: invert(1);
+
+}
+.nav-div a{
+    margin-right: 20px;
+
+}.bg-dark{
+   background-color: #030303;
+}
+.custom-heading{
+    font-size: 60px;
+
+}
+.section1{
+    background-color: #fff;
+}
+.card{
+    background-color: #ecefef;
+    border: none;
+}
+.card-img img{
+    width: 100px;
+    height: 100px;
+
+}
+.body{
+margin-left: 10px;
+padding: 10px;
+}
+.qr-section{
+    background-color: #ece9e9;
+}
+.custom-row{
+    display: flex;
+    justify-content: space-between;
+}
